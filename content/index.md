@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Fanewick
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a wiki for our [Daggerheart](https://www.daggerheart.com/) Witherwild campaign frame.
+
