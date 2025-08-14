@@ -1,5 +1,5 @@
 ---
-title: Dramatis Personae
+title: Wizard
 draft: false
 tags:
 ---
